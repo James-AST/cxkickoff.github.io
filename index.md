@@ -18,4 +18,7 @@ There are four type of labs (you can choose multiple ones time permitting):
 4. [Fusion & API Security] (https://checkmarx.atlassian.net/wiki/spaces/CPT/pages/6763021439/Fusion+and+API-Security+Lab)
 
 {: .note }
-You will be provided an temporary API key to provision access to a Checkmarx One tenant.  If you wish to try these labs on your own, you will need your own tenant and/or API key.  To create an API key, see [Generating an API Key](https://checkmarx.com/resource/documents/en/34965-118315-authentication-for-checkmarx-one-cli.html#UUID-a4e31a96-1f36-6293-e95a-97b4b9189060_UUID-1e7abdfa-77eb-2a6c-f12a-c812a1e1dcf7)
+A temporary API key to provision access to a Checkmarx One tenant can be found [here] (https://checkmarx.atlassian.net/wiki/spaces/CPT/pages/6793986487/API+Key).  If you wish to try these labs on your own, you will need your own tenant and/or API key.  To create an API key, see [Generating an API Key](https://checkmarx.com/resource/documents/en/34965-118315-authentication-for-checkmarx-one-cli.html#UUID-a4e31a96-1f36-6293-e95a-97b4b9189060_UUID-1e7abdfa-77eb-2a6c-f12a-c812a1e1dcf7)
+
+{: .note }
+If you don't have access to your own Checkmarx One tenant, please message James Brotsos on MS Teams and I will create one for you during the lab time.
