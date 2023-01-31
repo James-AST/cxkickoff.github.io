@@ -10,5 +10,12 @@ nav_order: 1
 
 Welcome to the R&D Kickoff lab for learning about and getting hands-on with Checkmarx products and solutions. 
 
+There are four type of labs (you can choose multiple ones time permitting):
+
+1. The IDE lab provided within this GitHub Page
+2. [API Lab] (https://checkmarx.atlassian.net/wiki/spaces/CPT/pages/6761447556/API+Results+Lab)
+3. [Checkmarx One Overview] (https://checkmarx.atlassian.net/wiki/spaces/CPT/pages/6794707317/CxOne+Advanced+Lab)
+4. [Fusion & API Security] (https://checkmarx.atlassian.net/wiki/spaces/CPT/pages/6763021439/Fusion+and+API-Security+Lab)
+
 {: .note }
 You will be provided an temporary API key to provision access to a Checkmarx One tenant.  If you wish to try these labs on your own, you will need your own tenant and/or API key.  To create an API key, see [Generating an API Key](https://checkmarx.com/resource/documents/en/34965-118315-authentication-for-checkmarx-one-cli.html#UUID-a4e31a96-1f36-6293-e95a-97b4b9189060_UUID-1e7abdfa-77eb-2a6c-f12a-c812a1e1dcf7)
