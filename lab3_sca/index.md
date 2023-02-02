@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Lab 3 - 3rd Party Code Analysis
+title: Lab 1 - 3rd Party Code Analysis
 ---
 
-# Lab 3: 3rd Party Code Analysis
+# Lab 1: 3rd Party Code Analysis
 In this lab, we will explore some examples of Software Composition Analysis (SCA) vulnerabilities, and how to remediate them. 
 
 {: .important-title }
