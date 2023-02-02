@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Lab 4 - Malicious Package Detection
+title: Lab 1 - Malicious Package Detection
 ---
 
-# Lab 4: Malicious Package Detection
+# Lab 1: Malicious Package Detection
 In this lab, we will explore some examples of Software Supply Chain (SCS) findings, and how to remediate them. 
 
 {: .important-title }
