@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab 2 - Custom Code Analysis
+title: Lab 1 - Custom Code Analysis
 ---
 
 # Lab 2: Custom Code Analysis
