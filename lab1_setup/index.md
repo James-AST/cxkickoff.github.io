@@ -58,7 +58,7 @@ The Checkmarx Settings form opens.
     |:----------------------                |:-----------------------       |
     | Checkmarx KICS: Additional Parameters | \<leave blank\>                 |
     | Checkmarx AST: Additional Parameters  | \<leave blank\>                 |
-    | Checkmarx AST: Api Key       | \<provided by proctor\>                |
+    | Checkmarx AST: Api Key       | [API Key](https://checkmarx.atlassian.net/wiki/spaces/CPT/pages/6793986487/API+Key)                |
 
 3. Once entered, the Checkmarx plugin will authenticate to the Checkmarx One tenant
 
