@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Lab 1 - Environment Setup
+title: Lab 1a - Environment Setup
 ---
 
-# Lab 1: Environment Setup
+# Lab 1a: Environment Setup
 
 ## Introduction
 In this lab, we will focus on configuring our environment using an IDE and the Checkmarx plugin.  While Checkmarx supports multiple IDEs, for these labs we will be leveraging Microsoft Visual Studio Code, as it is free and commonly used.  Checkmarx has integrated plugins with the following IDEs:
