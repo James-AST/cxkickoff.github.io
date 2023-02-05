@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Lab 1 - Infrastructure-as-Code Analysis
+title: Lab 1d - Infrastructure-as-Code Analysis
 ---
 
-# Lab 1: Infrastructure-as-Code Analysis
+# Lab 1d: Infrastructure-as-Code Analysis
 
 {: .important-title }
 > Prerequisites
