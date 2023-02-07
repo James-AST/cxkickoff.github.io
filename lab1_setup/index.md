@@ -66,7 +66,7 @@ The Checkmarx Settings form opens.
 
 ## Connect to a project
 
-1. Mouse-over the __Project:__ field in the left pane, click the pencil icon, then select the project name __cxworkshops/totallysecureapp__ that appears in the middle search bar
+1. Mouse-over the __Project:__ field in the left pane, click the pencil icon, then select the project name __totallysecureapp__ that appears in the middle search bar
 
     ![Select Project](./assets/images/cx_select_project.png "Select the Project")
 
