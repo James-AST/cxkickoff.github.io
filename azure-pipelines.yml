@@ -1,4 +1,5 @@
 # Starter pipeline
+    
 
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
@@ -25,3 +26,4 @@ steps:
     projectName: '$(Build.Repository.Name)'
     branchName: '$(Build.SourceBranchName)'
     tenantName: 'master_tenant'
+    additionalParams: '--debug'
